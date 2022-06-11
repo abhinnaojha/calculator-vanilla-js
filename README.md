@@ -1,2 +1,5 @@
-# calculator-vanilla-js
-Basic calculator using vanilla JavaScript.
+# Calculator
+Basic calculator made using HTML, CSS with SASS, and JavaScript.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
